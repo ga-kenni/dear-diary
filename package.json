@@ -1,12 +1,8 @@
 {
-  "name": "scavenger_hunt_5",
+  "name": "dear_diary",
   "version": "1.0.0",
-  "description": "Stage 5 of example scavenger hunt app.",
+  "description": "Deliberately insecure app",
   "main": "server.js",
-  "repository": {
-    "type": "git",
-    "url": "git@git.generalassemb.ly:SEiFXR05ANZ/scavenger_hunt.git"
-  },
   "scripts": {
     "start": "node server.js"
   },

@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git@git.generalassemb.ly:SEiFXR05ANZ/scavenger_hunt.git"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-pg-simple": "^7.0.0",

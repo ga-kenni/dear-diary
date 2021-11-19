@@ -12,7 +12,7 @@ const sessionsController = require('./controllers/sessions');
 const db = require('./database/db');
 
 const app = express()
-const port = 3000
+const port = process.env.PORT || 3000;
 
 app.use(logger)
 

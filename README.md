@@ -42,7 +42,7 @@ yarn
 
 ```
 cat schema.sql | psql
-``
+```
 
 4. Create the environment variables in a file called `.env`
 

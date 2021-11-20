@@ -44,7 +44,13 @@ yarn
 cat schema.sql | psql
 ``
 
-4. Run the server
+4. Create the environment variables in a file called `.env`
+
+```
+EXPRESS_SESSION_SECRET_KEY="something random here"
+```
+
+5. Run the server
 
 ```
 yarn start

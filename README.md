@@ -6,7 +6,7 @@ Note: It is intentionally built to be insecure. In particular, it demonstrates b
 
 ## Challenge 1
 
-There's a live version of this app at: https://guarded-garden-59963.herokuapp.com/login.html
+There's a live version of this app at: https://dear-diary-tdfv.onrender.com 
 
 But there's a security flaw! It's possible to get a list of all the accounts on the site and their details!
 
